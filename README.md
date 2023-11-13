@@ -26,7 +26,7 @@ ___
 
 # Bosques Aleatorios
   * **[Bosque Aleatorio en `Python` con IrisDataSet](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Bosque_Aleatorio_primer_ejemplo.ipynb)**
-  * **[Bosque Aleatorio con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/neural_networks/blob/main/Bosque_Aleatorio_en_IrisDataset_con_Sklearn.ipynb)**
+  * **[Bosque Aleatorio con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Bosque_Aleatorio_en_IrisDataset_con_Sklearn.ipynb)**
     
 # Máquinas de Vectores de Soporte
   * En progreso
