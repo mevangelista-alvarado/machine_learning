@@ -7,8 +7,10 @@ ___
 
 # Introducción
   
-# Regresión Lineal (Simple y Múltiple)
+# Regresión Lineal (Simple)
   * **[Regresión Lineal Simple en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Lineal_simple_ejemplo_de_juguete_con_Sklearn.ipynb)**
+  
+# Regresión Lineal (Múltiple)
   * **[Regresión Lineal Múltiple con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Lineal_en_Iris_con_Sklearn.ipynb)**
 
 # Regresión Lineal (Tipo Lasso)
