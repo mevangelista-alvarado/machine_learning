@@ -11,6 +11,9 @@ ___
   * **[Regresión Lineal Simple en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Lineal_simple_ejemplo_de_juguete_con_Sklearn.ipynb)**
   * **[Regresión Lineal Múltiple con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Lineal_en_Iris_con_Sklearn.ipynb)**
 
+# Regresión Lineal (Tipo Lasso)
+  * En progreso
+    
 # Regresión Logística
   * **[Regresión Logística en `Numpy`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Logistica_primer_ejemplo.ipynb)**
   * **[Regresión Logística con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Logistica_en_IrisDataset_con_Sklearn.ipynb)**
@@ -18,6 +21,16 @@ ___
 # Árboles de Decisión 
   * **[Árbol de Decisión_en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Arbol_De_Decision_en_IrisDataset_con_Sklearn.ipynb)**
   * **[Árbol de Decisión con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Arbol_De_Decision_en_IrisDataset_con_Sklearn.ipynb)**
+
+# Bosques Aleatorios
+  * En progreso
+    
+# Máquinas de Vectores de Soporte
+  * En progreso
+
+# K-Vecinos Próximos
+  * En progreso
+
 
 ___
 
