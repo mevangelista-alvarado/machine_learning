@@ -4,8 +4,6 @@ ___
 # Introducción a Machine Learning
 Implementaciones de `Python` para temas de Machine Learning. 
 ___
-
-# Introducción
   
 # Regresión Lineal (Simple)
   * **[Regresión Lineal Simple en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Regresion_Lineal_simple_ejemplo_de_juguete_con_Sklearn.ipynb)**
@@ -32,7 +30,8 @@ ___
   * En progreso
 
 # K-Vecinos Próximos
-  * En progreso
+  * **[KNN_en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/KNN_primer_ejemplo.ipynb)**
+  * **[KNN con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/KNN_en_IrisDataset_con_Sklearn.ipynb)**
 
 
 ___
