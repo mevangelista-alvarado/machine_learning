@@ -24,7 +24,7 @@ ___
   * **[Bosque Aleatorio con _Iris DataSet_ en `Sklearn`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/Bosque_Aleatorio_en_IrisDataset_con_Sklearn.ipynb)**
     
 # Máquinas de Vectores de Soporte
-  * **[SVM_en `Python`]https://github.com/mevangelista-alvarado/machine_learning/blob/main/SVM_primer_ejemplo.ipynb)**
+  * **[SVM_en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/SVM_primer_ejemplo.ipynb)**
 
 # K-Vecinos Próximos
   * **[KNN_en `Python`](https://github.com/mevangelista-alvarado/machine_learning/blob/main/KNN_primer_ejemplo.ipynb)**
